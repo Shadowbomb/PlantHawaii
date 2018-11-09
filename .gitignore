@@ -24,19 +24,19 @@ images/
 *.msi
 *.swp
 *.iml
+*.bin
 
+# System Specific Files #
+#########################
+.DS_Store
+.gradle
+local.properties
 
 # Android Studio Defaults #
 ###########################
 # default gitignore created by it
-PlantHawaii/*.iml
-PlantHawaii/.gradle
-PlantHawaii/local.properties
 PlantHawaii/.idea/workspace.xml
-PlantHawaii/.idea/libraries
-PlantHawaii/.DS_Store
+PlantHawaii.idea/libraries
 PlantHawaii//build
 PlantHawaii/captures
 PlantHawaii/.externalNativeBuild
-
-
