@@ -3,40 +3,123 @@ img/
 image/
 images/
 
+# Compressed Files #
+####################
+*.zip
+*.7z
+*.gz
+*.tar
+*.rar
+
 # Compiled source #
 ###################
-*.com
-*.class
-*.dll
-*.exe
 *.o
 *.so
-*.7z
-*.dmg
-*.gz
+*.com
+*.dll
 *.iso
+*.bin
+*.swp
+
+# Java Compiled Files #
+#######################
+*.class
 *.jar
-*.rar
-*.tar
-*.zip
-*.pkg
+
+# Windows Compiled Files #
+##########################
 *.exe
 *.msi
-*.swp
-*.iml
-*.bin
+
+# Mac Compiled Files #
+######################
+*.dmg
+*.pkg
+
+# Files for ART/Dalvik VM #
+###########################
+*.dex
+
+# Log Files #
+#############
+*.log
+
+# Gradle Files #
+######################
+*.gradle
+
+# Built Android Application Files #
+###################################
+*.apk
+*.ap_
+*.aab
+
+# Keystore Files #
+##################
+*.jks
+*.keystore
 
 # System Specific Files #
 #########################
+# Mac #
+#######
+._whatever
 .DS_Store
-.gradle
+.Trashes/
+.hidden
+.hotfiles.btree
+.vol
+# Windows #
+###########
+boot.ini
+
+# Other #
+*.dex
 local.properties
 
-# Android Studio Defaults #
-###########################
-# default gitignore created by it
-PlantHawaii/.idea/workspace.xml
-PlantHawaii.idea/libraries
-PlantHawaii//build
-PlantHawaii/captures
+# External Native Build Folder #
+################################
 PlantHawaii/.externalNativeBuild
+
+# Android Studio #
+###########################
+PlantHawaii/build/
+PlantHawaii/bin/
+PlantHawaii/gen/
+PlantHawaii/out/
+PlantHawaii/.navigation/
+PlantHawaii/captures/
+
+# Google Services #
+###################
+google-services.json
+
+# Freeline #
+############
+freeline.py
+freeline/
+freeline_project_description.json
+
+# Fastlane #
+############
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Eclipse #
+#########################
+proguard/
+
+# IntelliJ #
+############
+*.iml
+PlantHawaii/.idea/workspace.xml
+PlantHawaii/.idea/libraries/
+PlantHawaii/.idea/tasks.xml
+PlantHawaii/.idea/gradle.xml
+PlantHawaii/.idea/assetWizardSettings.xml
+PlantHawaii/.idea/dictionaries
+PlantHawaii/.idea/libraries
+PlantHawaii/.idea/caches
