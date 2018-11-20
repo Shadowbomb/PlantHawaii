@@ -232,12 +232,12 @@ public class CameraConnectionFragment extends Fragment {
 
   private final ConnectionCallback cameraConnectionCallback;
 
-  @SuppressLint("ValidFragment")
-  private CameraConnectionFragment(
-      final ConnectionCallback connectionCallback,
-      final OnImageAvailableListener imageListener,
-      final int layout,
-      final Size inputSize) {
+
+  public CameraConnectionFragment(
+          final ConnectionCallback connectionCallback,
+          final OnImageAvailableListener imageListener,
+          final int layout,
+          final Size inputSize) {
     this.cameraConnectionCallback = connectionCallback;
     this.imageListener = imageListener;
     this.layout = layout;

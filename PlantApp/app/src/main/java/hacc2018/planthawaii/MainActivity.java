@@ -18,7 +18,9 @@ import android.widget.SimpleAdapter;
 
 import java.util.List;
 import java.util.Map;
-
+import hacc2018.planthawaii.ML.CameraActivity;
+import hacc2018.planthawaii.ML.CameraConnectionFragment;
+import hacc2018.planthawaii.ML.ClassifierActivity;
 import io.fotoapparat.Fotoapparat;
 import io.fotoapparat.view.CameraView;
 
@@ -119,13 +121,20 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.flower1) {
             // Handle the camera action
-            setContentView(R.layout.content_camera);
+          //  setContentView(R.layout.content_camera);
+
+            Intent intent = new Intent(this, ClassifierActivity.class);
+            //    EditText editText = (EditText) findViewById(R.id.editText);
+            //  String message = editText.getText().toString();
+            //intent.putExtra(EXTRA_MESSAGE, message);
+            startActivity(intent);
         } else if (id == R.id.flower2) {/*
             Fragment mFragment = null;
             mFragment = new DownloadDBFragment();
             FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction()
-                    .replace(R.id.fragmentFrame, mFragment).commit();*/
+                    .replace(R.id.fragmentFrame, mFragment).commit();
+                    */
             return true;
         } else if (id == R.id.flower3) {
             Intent intent = new Intent(this, MainActivity2.class);
@@ -135,6 +144,11 @@ public class MainActivity extends AppCompatActivity
             startActivity(intent);
 
         } else if (id == R.id.flower4) {
+            Fragment mFragment = null;
+            mFragment = new CameraFragment();
+            FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction()
+                    .replace(R.id.fragmentFrame, mFragment).commit();
 
         } else if (id == R.id.plant1) {
 
