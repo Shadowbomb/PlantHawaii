@@ -169,4 +169,92 @@ INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_I
 		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('Non Invasive')),
 		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID('N/A'))
 	);
+--NEW PLANTS----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_ID, COMMON_NAME_ID, HAWAIIAN_NAME_ID, NATIVE_STATUS_ID, INVASIVE_STATUS_ID, FEDERAL_STATUS_ID)
+	VALUES('linearis', 'N/A',
+		'The blue to purple fiddleheads emerge from underground rhizomes. The fronds divide repeatedly into pairs. The pinnae (leaflets) are green and linear. This very common, colonial, vining fern has long, tough, wiry, highly branched stems that sprawl across the ground to form dense, tangled, impassable thickets in disturbed areas like old lava flows.',
+		'Early Use:
+
+		Modern Use:',
+		(SELECT [dbo].FUNCTION_GENUS_ID('Dicranopteris')),
+		(SELECT [dbo].FUNCTION_COMMON_NAME_ID('Old World Fern')),
+		(SELECT [dbo].FUNCTION_HAWAIIAN_NAME_ID('Uleule')),
+		(SELECT [dbo].FUNCTION_NATIVE_STATUS_ID('Native')),
+		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('Non Invasive')),
+		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID('LC'))
+	);
+	INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_ID, COMMON_NAME_ID, HAWAIIAN_NAME_ID, NATIVE_STATUS_ID, INVASIVE_STATUS_ID, FEDERAL_STATUS_ID)
+	VALUES('incanum', 'N/A',
+		'This shrub varies in height, from 2 to 10 ft, and has a width that varies from 6 to 8 ft. Its flowers can either be pink, purple, red, or white. It also has coarse green leaves.',
+		'"Early Use: Used the leaves to make a green dye and the flowers and root bark were used together with other plants and liquids for  stomachaches.
+
+		Modern Use:  Used for dry flower arrangemments and leis."',
+		(SELECT [dbo].FUNCTION_GENUS_ID('Abutilon')),
+		(SELECT [dbo].FUNCTION_COMMON_NAME_ID('Hoary Abutilon')),
+		(SELECT [dbo].FUNCTION_HAWAIIAN_NAME_ID('ʻIlima pua kea')),
+		(SELECT [dbo].FUNCTION_NATIVE_STATUS_ID('Native')),
+		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('No')),
+		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID('N/A'))
+	);
+	INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_ID, COMMON_NAME_ID, HAWAIIAN_NAME_ID, NATIVE_STATUS_ID, INVASIVE_STATUS_ID, FEDERAL_STATUS_ID)
+	VALUES('menziesii', 'N/A',
+		'A sprawling shrub that can grow from 2 to 10 ft, and can be twice as wide as it is tall. Along with fine green leaves, it also produces cream, pink, red, and yellow flowers.',
+		'"Early Use: The flowers were used to make leis and the juice of the red blossoms was used as a laxative
+
+		Modern Use: The flowers do not wilt quickly, which makes it a nice lei flower"',
+		(SELECT [dbo].FUNCTION_GENUS_ID('Abutilon')),
+		(SELECT [dbo].FUNCTION_COMMON_NAME_ID('Red Abutilon')),
+		(SELECT [dbo].FUNCTION_HAWAIIAN_NAME_ID('Koʻoloa ʻula')),
+		(SELECT [dbo].FUNCTION_NATIVE_STATUS_ID('Endemic')),
+		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('Non Invasive')),
+		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID('EN'))
+	);
+	INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_ID, COMMON_NAME_ID, HAWAIIAN_NAME_ID, NATIVE_STATUS_ID, INVASIVE_STATUS_ID, FEDERAL_STATUS_ID)
+	VALUES('eremitopetalim', 'N/A',
+		'A sprawling shrub that can grow from 2 to 10 ft. Along with grayish-silver and light green,heart-shaped leaves, it also produces green, greenish-white and red flowers.',
+		'"Early Use: Unknown
+
+		Modern Use: This abutilon is used as an easy-to-grow plant in home gardens."',
+		(SELECT [dbo].FUNCTION_GENUS_ID('Abutilon')),
+		(SELECT [dbo].FUNCTION_COMMON_NAME_ID('Hidden-petaled Abutilon')),
+		(SELECT [dbo].FUNCTION_HAWAIIAN_NAME_ID('N/A')),
+		(SELECT [dbo].FUNCTION_NATIVE_STATUS_ID('Endemic')),
+		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('Non Invasive')),
+		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID('Endangered'))
+	);
+	INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_ID, COMMON_NAME_ID, HAWAIIAN_NAME_ID, NATIVE_STATUS_ID, INVASIVE_STATUS_ID, FEDERAL_STATUS_ID)
+	VALUES('sandwicense', 'N/A',
+		'A sprawling shrub that can grow from 2 to over 10 ft, and over 10 ft wide. With med-coarse, grayish-silver and light green leaves, it also produces brownish, green, greenish-white, light orange, red and yellow flowers.',
+		'Early Use: Unknown
+
+		Modern Use: No known usage (despite being a spectacular shrub)',
+		(SELECT [dbo].FUNCTION_GENUS_ID('Abutilon')),
+		(SELECT [dbo].FUNCTION_COMMON_NAME_ID('Green-flowered Abutilon')),
+		(SELECT [dbo].FUNCTION_HAWAIIAN_NAME_ID('Koʻolua maʻomaʻo')),
+		(SELECT [dbo].FUNCTION_NATIVE_STATUS_ID('')),
+		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('')),
+		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID(''))
+	);
+	INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_ID, COMMON_NAME_ID, HAWAIIAN_NAME_ID, NATIVE_STATUS_ID, INVASIVE_STATUS_ID, FEDERAL_STATUS_ID)
+	VALUES('', 'N/A',
+		'',
+		'',
+		(SELECT [dbo].FUNCTION_GENUS_ID('')),
+		(SELECT [dbo].FUNCTION_COMMON_NAME_ID('')),
+		(SELECT [dbo].FUNCTION_HAWAIIAN_NAME_ID('')),
+		(SELECT [dbo].FUNCTION_NATIVE_STATUS_ID('')),
+		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('')),
+		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID(''))
+	);
+	INSERT INTO SPECIES(SPECIES_NAME, SUBSPECIES_NAME, [DESCRIPTION], STORY, GENUS_ID, COMMON_NAME_ID, HAWAIIAN_NAME_ID, NATIVE_STATUS_ID, INVASIVE_STATUS_ID, FEDERAL_STATUS_ID)
+	VALUES('', 'N/A',
+		'',
+		'',
+		(SELECT [dbo].FUNCTION_GENUS_ID('')),
+		(SELECT [dbo].FUNCTION_COMMON_NAME_ID('')),
+		(SELECT [dbo].FUNCTION_HAWAIIAN_NAME_ID('')),
+		(SELECT [dbo].FUNCTION_NATIVE_STATUS_ID('')),
+		(SELECT [dbo].FUNCTION_INVASIVE_STATUS_ID('')),
+		(SELECT [dbo].FUNCTION_FEDERAL_STATUS_ID(''))
+	);
 -------------------------------------------------------------------------------------------

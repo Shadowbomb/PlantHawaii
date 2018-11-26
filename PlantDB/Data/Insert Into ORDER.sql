@@ -18,7 +18,5 @@ INSERT INTO [ORDER]([NAME]) VALUES('Poales');
 INSERT INTO [ORDER]([NAME]) VALUES('Brassicales');
 INSERT INTO [ORDER]([NAME]) VALUES('Cyperales');
 INSERT INTO [ORDER]([NAME]) VALUES('Cytheales');
-INSERT INTO [ORDER]([NAME]) VALUES('');
-INSERT INTO [ORDER]([NAME]) VALUES('');
-INSERT INTO [ORDER]([NAME]) VALUES('');
+INSERT INTO [ORDER]([NAME]) VALUES('Arecales');
 -----------------------------------------------------------------------------

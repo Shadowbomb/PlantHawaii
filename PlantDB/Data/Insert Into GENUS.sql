@@ -35,4 +35,8 @@ INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Chenchrus', (SELECT [dbo].FUNCTIO
 INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Charpentiera', (SELECT [dbo].FUNCTION_ORDER_ID('Caryophyllales')));
 INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Chenopodium', (SELECT [dbo].FUNCTION_ORDER_ID('Caryophyllales')));
 INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Cibotium', (SELECT [dbo].FUNCTION_ORDER_ID('Cytheales')));
+INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Portulaca', (SELECT [dbo].FUNCTION_ORDER_ID('Caryophyllales')));
+INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Pritchardia', (SELECT [dbo].FUNCTION_ORDER_ID('Arecales')));
+INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Eleocharis', (SELECT [dbo].FUNCTION_ORDER_ID('Poales')));
+INSERT INTO GENUS ([NAME], [ORDER_ID]) VALUES('Scaevola', (SELECT [dbo].FUNCTION_ORDER_ID('Asterales')));
 -----------------------------------------------------------------------------
