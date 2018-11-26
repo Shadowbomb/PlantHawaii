@@ -46,7 +46,7 @@ images/
 
 # Gradle Files #
 ######################
-*.gradle
+#*.gradle
 
 # Built Android Application Files #
 ###################################
