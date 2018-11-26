@@ -1,10 +1,26 @@
 # README
 
-Elevator Pitch:
-An app to learn about Hawaiian Plants - uses, stories, names, and score points for helping save the ʻaina.
+## Creators
 
-Tags:
-java, android-development-kit, tsql, sql-server, azure, github, android, keras, tensorflow, vs-code, slack, pivotal-tracker, markdown, microsoft-sql-management-studio, gitkraken
+- Sean Harding [@Shadowbomb](https://www.github.com/Shadowbomb/)
+- Wataru Takahashi [@wtberry](https://www.github.com/wtberry/)
+- Lorraine Jimenez [@itslorraineing](https://www.github.com/itslorraineing/)
+- Iokepa Lapera [@ilapera4](https://www.github.com/ilapera4)
+- Kekoa Santana [@kekoasantana](https://www.github.com/kekoasantana)
+- Chad Fukumitsu [@isao21](https://www.github.com/isao21)
+- Tai Ngoc Bui [@taingocbui](https://www.github.com/taingocbui)
+- Caleb Joseph [@c-joe02](https://www.github.com/c-joe02/)
+
+## Hawaii Annual Code Challenge Repository
+
+[**HACC 2018 Organization**](https://github.com/HACC2018/) PlantHawaii Repository: <https://github.com/HACC2018/>
+
+
+**Elevator Pitch:**
+> An app to learn about Hawaiian Plants - uses, stories, names, and score points for helping save the ʻaina.
+
+**Tags:**
+> java, android-development-kit, tsql, sql-server, azure, github, android, keras, tensorflow, vs-code, slack, pivotal-tracker, markdown, microsoft-sql-management-studio, gitkraken
 
 ## Inspiration
 
@@ -41,3 +57,6 @@ Git Repository Link: <https://github.com/HACC2018/PlantHawaii>
 Mockup Link: <https://projects.invisionapp.com/share/Q8OXMWDDHSG#/329364382>
 Video Demo: <https://youtu.be/RjOcw-n8cDk>
 LucidChart ERD: <https://www.lucidchart.com/invitations/accept/228d1d0d-1b51-4d89-91b0-46a8f261bc35>
+
+**Database ERD: LucidChart**
+[](PlantHawaii\Resources\Plant Hawaii Azure T-SQL ERD)
