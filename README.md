@@ -59,4 +59,4 @@ Video Demo: <https://youtu.be/RjOcw-n8cDk>
 LucidChart ERD: <https://www.lucidchart.com/invitations/accept/228d1d0d-1b51-4d89-91b0-46a8f261bc35>
 
 **Database ERD: LucidChart**
-[![Azure ERD](https://www.github.com/Shadowbomb/PlantHawaii/Resources/PlantHawaii_Azure_T-SQL_ERD.png)]
+![PlantHawaii SQL Database ERD](https://www.github.com/Shadowbomb/PlantHawaii/raw/Resources/PlantHawaii_Azure_T-SQL_ERD.png)
