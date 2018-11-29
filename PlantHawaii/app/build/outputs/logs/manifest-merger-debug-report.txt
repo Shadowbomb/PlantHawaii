@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.12.0.aar/b1d1095c5088893d665f841a8219a045/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:design:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/793f57c71342b576d243bc803a31943c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/84da706042593eabdd6377c90420d421/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/af2c8d460f65d205d27a93b73fbfa71d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c7b13e000b6f91dd67bc87a579bd814/AndroidManifest.xml:2:1-11:12
+MERGED from [io.fotoapparat:fotoapparat:2.5.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/fotoapparat-2.5.0.aar/81b8500952caef5ba7fd9f3f32b5ba98/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/144a226196b78c99f665da5bb33065f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c5a9fa07badfd40f8a3b5b92193796c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a33dc2914ec1af8ab0634ac55fafa7a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3d5e77a46e07966d36e7a27688fabcda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1015c8845f83d0c778f8db81d8f31b13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aad654f5f77c1672b1a3d6961e95b949/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c59246191f13194ef99149b2179a0395/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/654413a1b869f4357d9bece61163330c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cbe306d359e0db49dbf3a57699867356/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5423a818e8981bbbd47193f1a3d999ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6ff21afe458565f9b87c30e79caa9591/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e8b78d392c881527d824c1d4a0daa77c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/227963cd292561b717d61ee06f31255d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73c67f7e2d6411b75544bc0b1a84e598/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a07d177231ece31051a326bf58023b28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/969e7172efb1c5fe41ba0c96c77e5aa0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e485ade6b2805ec0f774da830642ae7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d717d41eebe468bb11b88ef84d511496/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ff6c342acd0ed6d21b3122f27e8425a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e8f33cba2fd577163a2a36fe0106414c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9cd2e8aa586a0bf84198172c553553e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/70fc42de1fad24c1db1b261f519bdd0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/dc2ffa4baa1a5664da318a2a93e807c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6285db851e8d4533da4ec4acb0dfb2fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4d5596d27e21f0a5f0b135b8cd6b3a1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5beb7f38417d34c61dd698d84553cc4c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6b735d18405a47f34d042bf00539386e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a774cc8a74fc5b483a3c0f591ce72353/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d66e37ea965b5800cf4b0ff093a89b78/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:5:5-34:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.12.0.aar/b1d1095c5088893d665f841a8219a045/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.12.0.aar/b1d1095c5088893d665f841a8219a045/AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:design:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/793f57c71342b576d243bc803a31943c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/793f57c71342b576d243bc803a31943c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c7b13e000b6f91dd67bc87a579bd814/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c7b13e000b6f91dd67bc87a579bd814/AndroidManifest.xml:9:5-20
+MERGED from [io.fotoapparat:fotoapparat:2.5.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/fotoapparat-2.5.0.aar/81b8500952caef5ba7fd9f3f32b5ba98/AndroidManifest.xml:11:5-20
+MERGED from [io.fotoapparat:fotoapparat:2.5.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/fotoapparat-2.5.0.aar/81b8500952caef5ba7fd9f3f32b5ba98/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e485ade6b2805ec0f774da830642ae7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e485ade6b2805ec0f774da830642ae7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d717d41eebe468bb11b88ef84d511496/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d717d41eebe468bb11b88ef84d511496/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e485ade6b2805ec0f774da830642ae7/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:12:9-40
+activity#hacc2018.planthawaii.ML.ClassifierActivity
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:screenOrientation
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:14:13-50
+activity#hacc2018.planthawaii.MainActivity
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/793f57c71342b576d243bc803a31943c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/793f57c71342b576d243bc803a31943c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/84da706042593eabdd6377c90420d421/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/84da706042593eabdd6377c90420d421/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/af2c8d460f65d205d27a93b73fbfa71d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/af2c8d460f65d205d27a93b73fbfa71d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c7b13e000b6f91dd67bc87a579bd814/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3c7b13e000b6f91dd67bc87a579bd814/AndroidManifest.xml:5:5-7:41
+MERGED from [io.fotoapparat:fotoapparat:2.5.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/fotoapparat-2.5.0.aar/81b8500952caef5ba7fd9f3f32b5ba98/AndroidManifest.xml:5:5-7:41
+MERGED from [io.fotoapparat:fotoapparat:2.5.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/fotoapparat-2.5.0.aar/81b8500952caef5ba7fd9f3f32b5ba98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/144a226196b78c99f665da5bb33065f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/144a226196b78c99f665da5bb33065f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c5a9fa07badfd40f8a3b5b92193796c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c5a9fa07badfd40f8a3b5b92193796c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a33dc2914ec1af8ab0634ac55fafa7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a33dc2914ec1af8ab0634ac55fafa7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3d5e77a46e07966d36e7a27688fabcda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3d5e77a46e07966d36e7a27688fabcda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1015c8845f83d0c778f8db81d8f31b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1015c8845f83d0c778f8db81d8f31b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aad654f5f77c1672b1a3d6961e95b949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aad654f5f77c1672b1a3d6961e95b949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c59246191f13194ef99149b2179a0395/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c59246191f13194ef99149b2179a0395/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/654413a1b869f4357d9bece61163330c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/654413a1b869f4357d9bece61163330c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cbe306d359e0db49dbf3a57699867356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cbe306d359e0db49dbf3a57699867356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5423a818e8981bbbd47193f1a3d999ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5423a818e8981bbbd47193f1a3d999ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6ff21afe458565f9b87c30e79caa9591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6ff21afe458565f9b87c30e79caa9591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e8b78d392c881527d824c1d4a0daa77c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e8b78d392c881527d824c1d4a0daa77c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/227963cd292561b717d61ee06f31255d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/227963cd292561b717d61ee06f31255d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73c67f7e2d6411b75544bc0b1a84e598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73c67f7e2d6411b75544bc0b1a84e598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a07d177231ece31051a326bf58023b28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a07d177231ece31051a326bf58023b28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/969e7172efb1c5fe41ba0c96c77e5aa0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/969e7172efb1c5fe41ba0c96c77e5aa0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e485ade6b2805ec0f774da830642ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e485ade6b2805ec0f774da830642ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d717d41eebe468bb11b88ef84d511496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d717d41eebe468bb11b88ef84d511496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ff6c342acd0ed6d21b3122f27e8425a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ff6c342acd0ed6d21b3122f27e8425a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e8f33cba2fd577163a2a36fe0106414c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e8f33cba2fd577163a2a36fe0106414c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9cd2e8aa586a0bf84198172c553553e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9cd2e8aa586a0bf84198172c553553e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/70fc42de1fad24c1db1b261f519bdd0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/70fc42de1fad24c1db1b261f519bdd0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/dc2ffa4baa1a5664da318a2a93e807c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/dc2ffa4baa1a5664da318a2a93e807c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6285db851e8d4533da4ec4acb0dfb2fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6285db851e8d4533da4ec4acb0dfb2fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4d5596d27e21f0a5f0b135b8cd6b3a1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4d5596d27e21f0a5f0b135b8cd6b3a1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5beb7f38417d34c61dd698d84553cc4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5beb7f38417d34c61dd698d84553cc4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6b735d18405a47f34d042bf00539386e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6b735d18405a47f34d042bf00539386e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a774cc8a74fc5b483a3c0f591ce72353/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a774cc8a74fc5b483a3c0f591ce72353/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d66e37ea965b5800cf4b0ff093a89b78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d66e37ea965b5800cf4b0ff093a89b78/AndroidManifest.xml:20:5-44
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+		ADDED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/src/main/AndroidManifest.xml:2:1-36:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.CAMERA
+ADDED from [io.fotoapparat:fotoapparat:2.5.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/fotoapparat-2.5.0.aar/81b8500952caef5ba7fd9f3f32b5ba98/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [io.fotoapparat:fotoapparat:2.5.0] /Users/itslorraineing/.gradle/caches/transforms-1/files-1.1/fotoapparat-2.5.0.aar/81b8500952caef5ba7fd9f3f32b5ba98/AndroidManifest.xml:9:22-62
