@@ -9,4 +9,10 @@
     <string name="title_activity_camera">CameraActivity</string>
     <string name="camera_error">This device does not support camera2 API</string>
     <string name="activity_name_classification">TF classify</string>
+    <string name="home_search">Search</string>
+    <string name="home_browse">Gallery</string>
+    <string name="home_report">Report</string>
+    <string name="home_camera">Camera</string>
+    <string name="potw">Plant of the Week</string>
+    <string name="info">This is a Hibiscus Brackenridgei. It is just a rambling message here talking about the plant.</string>
 </resources>
