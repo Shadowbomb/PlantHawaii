@@ -123,3 +123,7 @@ PlantHawaii/.idea/assetWizardSettings.xml
 PlantHawaii/.idea/dictionaries
 PlantHawaii/.idea/libraries
 PlantHawaii/.idea/caches
+
+# Gitignore #
+#############
+PlantHawaii/.gitignore
