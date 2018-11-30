@@ -18,8 +18,7 @@ import android.widget.SimpleAdapter;
 
 import java.util.List;
 import java.util.Map;
-import hacc2018.planthawaii.ML.CameraActivity;
-import hacc2018.planthawaii.ML.CameraConnectionFragment;
+
 import hacc2018.planthawaii.ML.ClassifierActivity;
 import io.fotoapparat.Fotoapparat;
 import io.fotoapparat.view.CameraView;
@@ -100,13 +99,17 @@ public class MainActivity extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent intent = new Intent(this, ClassifierActivity.class);
+            startActivity(intent);
             // Intent menuIntent = new Intent(this, CameraActivity.class);
             //   startActivity(menuIntent);
-            Fragment mFragment = null;
+
+
+       /*     Fragment mFragment = null;
             mFragment = new CameraFragment();
             FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction()
-                    .replace(R.id.fragmentFrame, mFragment).commit();
+                    .replace(R.id.fragmentFrame, mFragment).commit();*/
             return true;
         }
 

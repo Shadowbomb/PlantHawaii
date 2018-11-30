@@ -29,12 +29,13 @@ import android.os.HandlerThread;
 import android.util.Size;
 import android.view.KeyEvent;
 import android.view.WindowManager;
+import android.widget.Button;
 import android.widget.Toast;
+
+import java.nio.ByteBuffer;
 
 import hacc2018.planthawaii.R;
 import hacc2018.planthawaii.env.Logger;
-
-import java.nio.ByteBuffer;
 
 public abstract class CameraActivity extends Activity implements OnImageAvailableListener {
   private static final Logger LOGGER = new Logger();
@@ -118,6 +119,8 @@ public abstract class CameraActivity extends Activity implements OnImageAvailabl
       handler.post(r);
     }
   }
+
+
 
   @Override
   public void onRequestPermissionsResult(

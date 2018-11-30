@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="28"
-    build-mode="FULL"
+    build-mode="COLD"
     density="420dpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1543450129951"
-    token="2476106779915832544"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="1543554385544"
+    token="1036015337533322679"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -23,89 +23,91 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-
     <build
         build-mode="FULL"
-        timestamp="1543450129951"
+        timestamp="1543552990310"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1543554094795"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/itslorraineing/Desktop/PlantHawaii-master/PlantHawaii/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1543554348050"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/itslorraineing/PlantHawaii/PlantHawaii/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1543554385544"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
