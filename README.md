@@ -2,14 +2,14 @@
 
 ## Creators
 
-- Sean Harding [@Shadowbomb](https://www.github.com/Shadowbomb/)
-- Wataru Takahashi [@wtberry](https://www.github.com/wtberry/)
-- Lorraine Jimenez [@itslorraineing](https://www.github.com/itslorraineing/)
-- Iokepa Lapera [@ilapera4](https://www.github.com/ilapera4)
-- Kekoa Santana [@kekoasantana](https://www.github.com/kekoasantana)
-- Chad Fukumitsu [@isao21](https://www.github.com/isao21)
-- Tai Ngoc Bui [@taingocbui](https://www.github.com/taingocbui)
-- Caleb Joseph [@c-joe02](https://www.github.com/c-joe02/)
+- Sean Harding [@SolarisFlare](https://github.com/SolarisFlare/)
+- Wataru Takahashi [@wtberry](https://github.com/wtberry/)
+- Lorraine Jimenez [@itslorraineing](https://github.com/itslorraineing/)
+- Iokepa Lapera [@ilapera4](https://github.com/ilapera4)
+- Kekoa Santana [@kekoasantana](https://github.com/kekoasantana)
+- Chad Fukumitsu [@isao21](https://github.com/isao21)
+- Tai Ngoc Bui [@taingocbui](https://github.com/taingocbui)
+- Caleb Joseph [@c-joe02](https://github.com/c-joe02/)
 
 ## Hawaii Annual Code Challenge Repository
 
