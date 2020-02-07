@@ -2,7 +2,7 @@
 
 ## Creators
 
-- Sean Harding [@SolarisFlare](https://github.com/SolarisFlare/)
+- Sean Harding [@optimizasean](https://github.com/optimizasean/)
 - Wataru Takahashi [@wtberry](https://github.com/wtberry/)
 - Lorraine Jimenez [@itslorraineing](https://github.com/itslorraineing/)
 - Iokepa Lapera [@ilapera4](https://github.com/ilapera4)
@@ -59,4 +59,4 @@ Video Demo: <https://youtu.be/RjOcw-n8cDk>
 LucidChart ERD: <https://www.lucidchart.com/invitations/accept/228d1d0d-1b51-4d89-91b0-46a8f261bc35>
 
 **Database ERD: LucidChart**
-![PlantHawaii SQL Database ERD](https://www.github.com/Shadowbomb/PlantHawaii/raw/master/Resources/PlantHawaii_Azure_T-SQL_ERD.png?raw=true)
+![PlantHawaii SQL Database ERD](https://www.github.com/optimizasean/PlantHawaii/raw/master/Resources/PlantHawaii_Azure_T-SQL_ERD.png?raw=true)
